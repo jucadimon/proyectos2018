@@ -28,9 +28,14 @@ proyectos 2018-2019
   -curso de instalaciones hidrosanitarias
   -curso de topografia teorica
   -curso de interpretación de imagenes aereas y satelitales
-  
+  -curso de analisis estructural
 
 -cursos privados
+  -curso de analisis sismico en colombia
+  -curso de analisis de vientos en colombia
+  -curso de analisis de cuencas hidrograficas
+  -cursos de riesgos y mitigaion del riesgo 
+  
   -curso de diseño de edfificaciones
   -curso de diseño de vias
   -curso de diseño de cimentaciones
