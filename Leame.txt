@@ -21,8 +21,11 @@ proyectos 2018-2019
   -cursos de resistencia de materiales
   -cursos de ecuaciones diferenciales
   -cursos de metodos numericos
+  -curso de la norma NSR10
+  -curso del COMPES
 
 -cursos avanzados
+  -curso de nominas e impuestos en colombia
   -curso de mecanica de fluidos
   -curso de hidraulica
   -curso de instalaciones hidrosanitarias
@@ -53,6 +56,13 @@ proyectos 2018-2019
   -curso de presupuestos para sistemas de tratamiento de agua potable
   -curso de presupuestos para sistemas de tratamiento de aguas residuales
   -curso de presupuestos para puentes
+
+
+-proyectos de informatica y tecnologia
+  -Interfaces graficas personalizadas
+  -Ingenieria asistida por computadora
+  -calculo asistido por computadora
+  -dibujo asistido por computadora
 
 -diseño de juegos
   -diseño de la historia
