@@ -1,9 +1,57 @@
 proyectos 2018-2019
 
 -cursos basicos
+  -cursos de matematicas basicas
+  -cursos de geometria basica
+  -cursos de funciones trigonometricas
+  -cursos de algebra lineal basica
+  -cursos de fisica basica
+  -cursos de fisica newtoniana
+  -cursos de fisica teorema del trabajo y la energia
+  -cursos de estática basica
+  -cursos de dibujo asistido por computadora
 
 -cursos intermedios
+  -cursos de trucos y artificios matematicos avanzados
+  -cursos de estadistica e interpretación de resultados
+  -cursos de calculo diferencial
+  -cursos de calculos infinitesimal
+  -cursos de calculos de varias variables
+  -cursos de dinámica
+  -cursos de resistencia de materiales
+  -cursos de ecuaciones diferenciales
+  -cursos de metodos numericos
 
 -cursos avanzados
+  -curso de mecanica de fluidos
+  -curso de hidraulica
+  -curso de instalaciones hidrosanitarias
+  -curso de topografia teorica
+  -curso de interpretación de imagenes aereas y satelitales
+  
 
 -cursos privados
+  -curso de diseño de edfificaciones
+  -curso de diseño de vias
+  -curso de diseño de cimentaciones
+  -curso de diseño de acueductos
+  -curso de diseño de sistemas de alcantarillados
+  -curso de diseño de sistemas de tratamiento de agua potable
+  -curso de diseño de sistemas de tratamiento de aguas residuales
+  -curso de diseño de puentes
+  
+  -curso de presupuestos para edfificaciones
+  -curso de presupuestos para vias
+  -curso de presupuesto para cimentaciones
+  -curso de presupuestos para acueductos
+  -curso de presupuestos para sistemas de alcantarillados
+  -curso de presupuestos para sistemas de tratamiento de agua potable
+  -curso de presupuestos para sistemas de tratamiento de aguas residuales
+  -curso de presupuestos para puentes
+
+-diseño de juegos
+  -diseño de la historia
+  -diseño de los personajes
+  -diseño de los escenarios
+  -diseño de la interfaz
+  -programación del juego
