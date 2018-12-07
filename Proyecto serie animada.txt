@@ -1,12 +1,26 @@
-* Etapas del proyecto:
+x.Calendario de actividades
+    x.1.Actividades antes de empezar el proyecto
+    x.2.Actividades durante el proceso
+    x.3.Actividades después de la puesta en marcha
 
+
+* Etapas del proyecto:
+ANTES
+  1.Formulación de la idea
+  2.Estudios previos de inversión
+  3.Estudios previos del mercado
+  4.Socialización de la idea
+
+
+EJECUCIÓN
   1.Diseño de la idea
   2.Acopio de información
   3.Socializacion de la idea con los asociados estratétigos
   4.Reorganización de la idea original
   5.Conformación del equipo de trabajo
-  6.Calendario de actividades
-    6.1.Actividades antes de empezar el proyecto
-    6.2.Actividades durante el proceso
-    6.3.Actividades después de la puesta en marcha
+  6.Asignación de funciones y responsabilidades
   7.Recursos para el proyecto
+ 
+ DESPUÉS
+  1.Análisis de las actividades
+  2.Evaluación de las actividades
