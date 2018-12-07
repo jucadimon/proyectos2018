@@ -17,9 +17,17 @@ que se tienen a la mano, como lo son las redes sociales, blogs y páginas web.
 -Los estudios previos de inversión son importantes para medir el futuro de la Serie animada, aspectos importantes que se van a tener en
 cuenta para la realización de este proyecto son:
     -Público al cual se pretende lanzar la serie, por lo que una serie animada tiene cierto rango de edades a las cuales les interesa
-    el producto audiovisual, esos rangos de edades son variables de cultura y de pais, actualmente las series animadas con mas seguidores
-    son "Dragon Ball", "Naruto", 
+    el producto audiovisual, esos rangos de edades son variables de cultura y de pais, actualmente las series animadas con 
+    mas seguidores son "Dragon Ball", "Naruto", "Los Simpson", "South Park", "Bob Esponja", entre otras(+), cada serie tiene una
+    cantidad cosiderable de videntes, repartidos a lo largo y ancho del continente americano. Teniendo esto en cuenta, se podría decir
+    que con un público minimo de videntes la serie podría tener el éxito esperado, colombia para el 2017 tenía proximadamente mas de 
+    49 millones de personas(*), de las cuales solo un porcentaje tiene afinidad con series animadas, alrededor de un 40% de la 
+    población está entre los 15 y 35 años(**), por lo que al suponer que solo 2 de 40 personas en ese rango de edad le puede interesar
+    las series animadas ( 5% ), entonces se podría tener alrededor de 980.000 a quienes les puede interesar la serie como tal.
 
+(+)Según mi experiencia
+(*)https://www.saberespractico.com/demografia/poblacion-de-los-paises-de-america-actualizado/
+(**)https://geoportal.dane.gov.co/midaneapp/pob.html
 
   3.Estudios previos del mercado
   4.Socialización de la idea
