@@ -1,3 +1,16 @@
+Roles
+- Nombre
+- Profesión
+- Edad
+- Perfil
+- contacto
+
+
 Fundador:
 
-Juan Diaz Mnotiel
+- Juan Diaz Montiel
+- Ingeniero Civil
+- 26 años
+- Diseñador de la idea serie animada
+- aportes organizacionales del grupo que desarrolla la idea, diseñador, programador, editor de contenido
+- whasap: +573016922644
